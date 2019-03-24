@@ -120,7 +120,4 @@
 		<jwt.version>1.0.9.RELEASE</jwt.version>
 		<oauth.version>2.3.4.RELEASE</oauth.version>
 	</properties>
-	<!-- <profiles> <profile> <id>dev</id> <build> <resources> <resource> <directory>src/main/resources</directory> 
-		<filtering>true</filtering> <excludes> <exclude>*.jks</exclude> </excludes> 
-		</resource> </resources> </build> </profile> </profiles> -->
 </project>
